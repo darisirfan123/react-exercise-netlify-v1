@@ -11,8 +11,8 @@ const App = () => {
     <>
       <div className='navbar'>
         <div className='studentInfo'>
-          <h2 className="studentName">Djarot Purnomo</h2>
-          <p className="studentId">FE999</p>
+          <h2 className="studentName">Daris Irfan Putrawanto</h2>
+          <p className="studentId">FE5498316</p>
         </div>
         <Link to='/'>Home</Link>
         <Link to='/photos'>My Photos</Link>
